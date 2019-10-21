@@ -1,3 +1,3 @@
-# dosMania
+# Batch
 Batch files for fun.
-This repository is a diversity of batch files. There are games, malwares, backups routines etc.
+This repository is a diversity of batch files. There are games, malwares, administrative tools etc.
